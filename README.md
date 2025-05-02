@@ -57,7 +57,7 @@ Kadang hidup tuh gak butuh alasan.
 
 ## Lisensi
 
-Lisensi? Halah. Gak usah ribet.  
+Lisensi? Gak usah ribet.  
 Ambil aja. Lo pake, salah lo sendiri.
 
 ---
