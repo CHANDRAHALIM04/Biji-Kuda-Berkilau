@@ -1,6 +1,10 @@
 ![useless](https://img.shields.io/badge/usefulness-0%25-red)
-![broken](https://img.shields.io/badge/build-breaking-red)
-![404](https://img.shields.io/badge/purpose-404-lightgrey)
+![build](https://img.shields.io/badge/build-breaking-red)
+![debugging-dosa](https://img.shields.io/badge/debugging--dosa-critical-red)
+![purpose](https://img.shields.io/badge/purpose-404--not--found-lightgrey)
+![tobat](https://img.shields.io/badge/tobat-jam--3--pagi-purple)
+![ngulang-dosa](https://img.shields.io/badge/ngulang-dosa--lama-maroon)
+
 
 # Biji-Kuda-Berkilau
 Biji Kuda Bukan Biji Gw
