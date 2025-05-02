@@ -1,3 +1,7 @@
+![useless](https://img.shields.io/badge/usefulness-0%25-red)
+![broken](https://img.shields.io/badge/build-breaking-red)
+![404](https://img.shields.io/badge/purpose-404-lightgrey)
+
 # Biji-Kuda-Berkilau
 Biji Kuda Bukan Biji Gw
 # Biji Kuda Berkilau
